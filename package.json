@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Node Hello World === ### Consegna: 1. Creiamo la prima applicazione con NodeJs e inizializziamola con \"npm init\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaparutto/node-hello-world.git"
+  },
+  "author": "NP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolaparutto/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/nicolaparutto/node-hello-world#readme"
+}
